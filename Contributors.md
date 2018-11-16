@@ -5,6 +5,7 @@
 - [kzack123](https://github.com/kzack123)
 - [MrHritik](https://github.com/Hritik14)
 - [Kegjams](https://github.com/Kegjams)
+- [Rafael Miranda :)](https://github.com/raeglan)
 - [Mahesh Jaganiya] (https://github.com/jagzmz)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [SteveMarshall](https://github.com/marshast)
